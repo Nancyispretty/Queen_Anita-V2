@@ -196,7 +196,7 @@ astro_patch.smd(
     const { key } = await message.reply("*Testing Ping!!!*");
     var endTime = new Date().getTime();
     return await message.send(
-      `*Pong*\n *${endTime - startTime} ms*`,
+      `*Queen_Anita-V2 Pong*\n *${endTime - startTime} ms*`,
       {
         edit: key,
       },
